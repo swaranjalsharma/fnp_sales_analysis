@@ -45,13 +45,13 @@ In Power Query, I applied several key data cleaning and transformation steps:
 - 📊 Changed data types to support analysis
 
 📷 Screenshot of Power Query Applied Steps:
-Power Query Editor Queries.png
+
 
 
 ---
 
 ## 📸 Dashboard Preview
-FnP Sales Analysis Dashboard.png
+
 
 
 ---
