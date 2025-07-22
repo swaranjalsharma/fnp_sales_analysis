@@ -48,11 +48,12 @@ In Power Query, I applied several key data cleaning and transformation steps:
 
 
 
+
 ---
 
 ## 📸 Dashboard Preview
 
-
+https://github.com/swaranjalsharma/fnp_sales_analysis/blob/main/FnP%20Sales%20Analysis%20Dashboard.png
 
 ---
 
