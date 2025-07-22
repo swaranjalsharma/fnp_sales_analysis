@@ -51,7 +51,7 @@ In Power Query, I applied several key data cleaning and transformation steps:
 ---
 
 ## 📸 Dashboard Preview
-
+FnP Sales Analysis Dashboard.png
 
 
 ---
