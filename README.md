@@ -46,7 +46,7 @@ In Power Query, I applied several key data cleaning and transformation steps:
 
 📷 Screenshot of Power Query Applied Steps:
 
-
+https://github.com/swaranjalsharma/fnp_sales_analysis/blob/main/Power%20Query%20Editor%20Queries.png
 
 
 ---
